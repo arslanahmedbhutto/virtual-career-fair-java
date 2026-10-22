@@ -1,0 +1,21 @@
+# Build output
+build/
+dist/
+out/
+bin/
+*.class
+
+# IDE / OS
+.idea/
+nbproject/private/
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
